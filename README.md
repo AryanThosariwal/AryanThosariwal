@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AryanThosariwal
-- 👀 I’m interested in HTML5, CSS3, JS, C.
-- 🌱 I’m currently learning JS, C++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Verilog, HTML5, CSS3, JS, Python.
+- 🌱 I’m currently learning VLSI, Python.
 - 📫 How to reach me aryanthosriwal90@gmail.com
