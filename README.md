@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @AryanThosariwal
-- 👀 I’m interested in Verilog, HTML5, CSS3, JS, Python.
-- 🌱 I’m currently learning VLSI, Python.
-- 📫 How to reach me aryanthosriwal90@gmail.com
-
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Aryan Thosariwal, developer from <b>India</b> </p>
+<p>Welcome to my page! </br> I'm Aryan Thosariwal, developer from <b>India</b> </br> I am student at Government College of Engineering, Amravati </br> I am currently learning VLSI, Python</p>
 <h3>Things I code with</h3>
 <p>
 
