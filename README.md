@@ -10,10 +10,10 @@
 <h3>Things I code with</h3>
 <p>
 
-  <img alt="Verilog" src="https://img.shields.io/badge/-Verilog-%23FFFF00?style=flat-square&logo=v&logoColor=white&labelColor=%23FFFF00">
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2965f1?style=flat-square&logo=css3&logoColor=white&labelColor=2965f1">
-  <img alt="Python" src="https://img.shields.io/badge/-Python-%23F2F3F5?style=flat-square&logo=python&labelColor=%23F2F3F5">
+  <img alt="Verilog" src="https://img.shields.io/badge/-Verilog-%23FFFF00?style=for-the-badge&logo=v&logoColor=white&labelColor=%23FFFF00">
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white&labelColor=2965f1">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-%23F2F3F5?style=for-the-badge&logo=python&labelColor=%23F2F3F5">
 
   
   
