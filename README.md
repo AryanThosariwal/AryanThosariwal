@@ -11,7 +11,6 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-%23F2F3F5?style=for-the-badge&logo=python&labelColor=%23F2F3F5">
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white&labelColor=2965f1">
-  <img alt="Python" src="https://img.shields.io/badge/-Python-%23F2F3F5?style=for-the-badge&logo=python&labelColor=%23F2F3F5">
   <img alt="Static Badge" src="https://img.shields.io/badge/-Tailwind-%23white?style=for-the-badge&logo=tailwindcss&labelColor=%239561e2&color=%239561e2">
   <img alt="Static Badge" src="https://img.shields.io/badge/-Bootstrap-%23white?style=for-the-badge&logo=bootstrap&labelColor=%23602C50&color=%23602C50">
   <img alt="Static Badge" src="https://img.shields.io/badge/-RISCV-%23ffc72c?style=for-the-badge&logo=Riscv&logoColor=%23011e41">
