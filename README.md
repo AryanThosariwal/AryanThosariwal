@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Aryan Thosariwal, developer from <b>India</b> </br> I am student at Government College of Engineering, Amravati </br> I am currently learning VLSI, Python</p>
+<p>Welcome to my page! </br> - I'm Aryan Thosariwal, developer from <b>India</b> </br> - I'm student at Government College of Engineering, Amravati </br> - I'm currently learning VLSI, Python</p>
 <h3>Things I code with</h3>
 <p>
 
