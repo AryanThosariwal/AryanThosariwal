@@ -1,8 +1,8 @@
 ![](./github-header-image.png)
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1>Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> - I'm Aryan Thosariwal, developer from <b>India</b> </br> - I'm student at Government College of Engineering, Amravati </br> - I'm currently learning VLSI, Python</p>
+<p>Welcome to my page! </br> - 🙋‍♂️ I'm Aryan Thosariwal, developer from <b>India</b> </br> - 💻 B.Tech in Electronics and Telecommuniations Engineering</br> - :book: I'm student at Government College of Engineering, Amravati </br> - :seedling: I'm currently learning VLSI, Python</p>
 <h3>Things I code with</h3>
 <p>
 
